@@ -1,0 +1,8 @@
+<!-- res/drawable/rounded_red_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/holo_red_light"/>
+    <corners android:radius="150dp"/>
+    <stroke
+
+        android:color="@android:color/white"/>
+</shape>
